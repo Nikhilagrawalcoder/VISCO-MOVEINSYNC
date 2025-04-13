@@ -597,8 +597,8 @@ ALLOW_ROOTING=true
 ### Installation Steps
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/fleet-management-system.git](https://github.com/Nikhilagrawalcoder/VISCO-MOVEINSYNC)
-cd fleet-management-system
+git clone [https://github.com/yourusername/VISCO-MOVEINSYNC.git](https://github.com/Nikhilagrawalcoder/VISCO-MOVEINSYNC)
+cd VISCO-MOVEINSYNC
 ```
 
 2. Install dependencies
