@@ -597,7 +597,7 @@ ALLOW_ROOTING=true
 ### Installation Steps
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/VISCO-MOVEINSYNC.git](https://github.com/Nikhilagrawalcoder/VISCO-MOVEINSYNC)
+git clone (https://github.com/Nikhilagrawalcoder/VISCO-MOVEINSYNC)
 cd VISCO-MOVEINSYNC
 ```
 
